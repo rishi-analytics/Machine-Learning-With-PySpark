@@ -1,6 +1,3 @@
-# Machine-Learning-With-PySpark
-This project aims to analyze customer data and build a machine learning model to predict customer churn for a telecom company.
-
 # Preventing Customer Churn Through Machine Learning
 
 ## Project Overview  
@@ -34,15 +31,17 @@ As a Business Analyst, my role was to evaluate churn drivers, build predictive m
 
 <img id="picture1" src="course_images/GRAPH.png" alt="alt text" width="600"/>
 
-Feature Importance Plot:
+### Feature Importance Plot:
+
 <img id="picture2" src="course_images/Top 20 Feature Importances (Decision Tree).png" alt="alt text" width="600"/>
 
-Churn Distribution by Contract: 
+### Churn Distribution by Contract: 
+
 <img id="picture2" src="course_images/Customer Churn Count by Contract Type.png" alt="alt text" width="600"/>
 
 ## Certificate
 
-([Certificate of Completion from Coursera]((https://coursera.org/share/e0d6590f1bed54ef018b33be3777bd14))
+[Certificate of Completion from Coursera]((https://coursera.org/share/e0d6590f1bed54ef018b33be3777bd14))
 
 ---
 
