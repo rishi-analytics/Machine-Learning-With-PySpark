@@ -41,7 +41,7 @@ As a Business Analyst, my role was to evaluate churn drivers, build predictive m
 
 ## Certificate
 
-[Certificate of Completion from Coursera]((https://coursera.org/share/e0d6590f1bed54ef018b33be3777bd14))
+[Certificate of Completion from Coursera](https://coursera.org/share/e0d6590f1bed54ef018b33be3777bd14)
 
 ---
 
