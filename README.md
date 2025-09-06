@@ -4,7 +4,7 @@
 ![Dataset Size](https://img.shields.io/badge/Rows-7043-blue)
 ![Business Problem](https://img.shields.io/badge/Business-Problem-red)
 ![Data-Driven Insights](https://img.shields.io/badge/Data-Driven%20Insights-green)
-![Prediction Model](https://img.shields.io/badge/)
+![Prediction Model](https://img.shields.io/badge/Prediction-Model-lightblue)
 
 # Preventing Customer Churn Through Machine Learning
 
