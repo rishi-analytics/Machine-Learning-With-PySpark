@@ -1,10 +1,10 @@
 [![Data Velho Rishi](https://img.shields.io/badge/Data%20Velho-Rishi-blueviolet)](https://rishi-analytics.github.io/)
 ![PySpark](https://img.shields.io/badge/Big%20Data-PySpark-orange)
 ![Google Colab](https://img.shields.io/badge/Environment-Google%20Colab-yellow)
-![Dataset Size](https://img.shields.io/badge/Rows-7043-blue)
 ![Business Problem](https://img.shields.io/badge/Business-Problem-red)
 ![Data-Driven Insights](https://img.shields.io/badge/Data-Driven%20Insights-green)
 ![Prediction Model](https://img.shields.io/badge/Prediction-Model-lightblue)
+![Course](https://img.shields.io/badge/Coursera-Guided%20Project-3cb371)
 
 # Preventing Customer Churn Through Machine Learning
 
